@@ -3,7 +3,6 @@
   <name>UH ARTour</name>
   <description></description>
   <author email="dash@uh.edu" href="http://housuggest.org/DASH">
-      Data Analytics In Student Hands
   </author>
   <icon src="resources\android\icon\drawable-xhdpi-icon.png"/>
   <preference name="SplashScreen" value="screen"/>
